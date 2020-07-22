@@ -2,4 +2,6 @@
     <string name="app_name">Dice Roller</string>
     <string name="hello_android">Hello Android!</string>
     <string name="roll">Roll</string>
+    <string name="lets_roll">Let\'s roll!</string>
+    <string name="button_clicked">Button clicked</string>
 </resources>
